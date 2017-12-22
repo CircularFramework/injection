@@ -1,0 +1,11 @@
+{
+	"presets": [
+		"babel-preset-env"
+	],
+	"plugins": [
+		"transform-decorators-legacy",
+		"transform-function-parameter-decorators",
+		"transform-es2015-classes",
+		"transform-custom-element-classes"
+	]
+}
