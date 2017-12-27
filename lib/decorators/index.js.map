@@ -1,1 +1,0 @@
-{"version":3,"sources":["../../src/decorators/index.js"],"names":["Inject","Injectable"],"mappings":";;;;;;;;;;;mBAASA,M;;;;;;;;;uBACAC,U","file":"index.js","sourcesContent":["export { Inject } from './inject.decorator';\nexport { Injectable } from './injectable.decorator';"]}
