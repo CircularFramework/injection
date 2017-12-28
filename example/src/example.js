@@ -1,6 +1,6 @@
 /** import dependencies */
-import { Injector } from '../../src';
-import { Inject, Injectable } from '../../src/decorators';
+import { Injector } from '../../lib';
+import { Inject, Injectable } from '../../lib/decorators';
 
 @Injectable({
 	token: 'depOne'
